@@ -1,0 +1,120 @@
+import re
+import requests
+from bs4 import BeautifulSoup
+import json
+
+
+def scrape_careerlink_vn(page_number):
+    url = f"https://123job.vn/nganh-nghe/vi%E1%BB%87c-l%C3%A0m-it-ph%E1%BA%A7n-m%E1%BB%81m?page={page_number}"
+    job_data = []  # Danh sách để lưu thông tin công việc
+
+    try:
+        # Gửi yêu cầu GET đến trang web
+        response = requests.get(url)
+        response.raise_for_status()  # Nếu có lỗi, sẽ ném ra một exception
+
+        # Parse HTML của trang web bằng BeautifulSoup
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        # Lấy tiêu đề công việc và thông tin chi tiết (đây chỉ là ví dụ, bạn cần điều chỉnh theo cấu trúc trang web)
+        job_titles = soup.find_all('h2', class_="job__list-item-title")
+        for title in job_titles:
+            title =title.find('a')
+            job_info = {"tên công việc": title.text.strip()}
+            print(job_info["tên công việc"])
+                 # Trích xuất đường link từ thuộc tính href
+            job_link = title.get('href')
+            
+            tmp_data = jobInfo(job_link,'h1',"js-job job-title")
+            tmp_data[0] = tmp_data[0].find_next_sibling('p')
+            ten_cty = BeautifulSoup(str(tmp_data[0]), "html.parser")
+            ten_cty = ten_cty.get_text(strip=True)
+            job_info["tên công ty"] = ten_cty
+            print(job_info["tên công ty"])
+       
+             #Nơi làm việc
+            tmp_data = jobInfo(job_link,'div',"content-group-attribute")
+            tmp_data[0] = tmp_data[0].find('div')
+            location = BeautifulSoup(str(tmp_data[0]), "html.parser").get_text(strip=True).replace("Địa điểm:","")
+            job_info["địa điểm công việc"] = location 
+            print(job_info["địa điểm công việc"])
+
+            #lương
+            tmp_data = jobInfo(job_link,'div',"item salary")
+            luong = BeautifulSoup(str(tmp_data[0]), "html.parser").get_text(strip=True).replace("Mức lương:","")
+            job_info["mức lương"] = luong
+            print(job_info["mức lương"])
+             # Lấy thông tin kinh nghiệm
+            tmp_data= jobInfo(job_link,'div',"item text-black")
+            
+            exp = BeautifulSoup(str(tmp_data[2]), "html.parser")
+        
+            job_info["kinh nghiệm"] =  exp.get_text(strip=True).replace("Kinh nghiệm:","")
+            print( job_info["kinh nghiệm"])
+            # Mô tả job
+            tempData = jobInfo(job_link,'div',"content-group__content")
+            mo_ta = BeautifulSoup(str(tempData[0]), "html.parser")
+            mo_ta = mo_ta.get_text(strip=True)
+            job_info["mô tả công việc"] = mo_ta
+            print( job_info["mô tả công việc"])
+            tmp_data= jobInfo(job_link,'div',"d-flex align-items-center mb-2")
+           
+            #Kỹ năng
+            temp_data = jobInfo(job_link,'h2',"content-group__title")
+            title = BeautifulSoup(str(temp_data[2]), "html.parser").get_text(strip=True)  
+            if(title== "Yêu cầu công việc"):
+                temp_data = temp_data[2].find_next_sibling('div',"content-group__content")
+                job_info["kĩ năng yêu cầu"] = BeautifulSoup(str(temp_data), "html.parser").get_text(strip=True)
+            else:  job_info["kĩ năng yêu cầu"] = None
+            print(job_info["kĩ năng yêu cầu"])
+            
+            #thong tin tuyen dung
+            temp = jobInfo(job_link,'div',"box-item flex mb-2")
+            job_info["thông tin liên hệ"]= BeautifulSoup(str(temp[0]), "html.parser").get_text(strip=True)  
+            print(job_info["thông tin liên hệ"])  
+            
+             #loại công việc
+            temp = jobInfo(job_link,'div',"content-group content-group-basic")
+            temp_1 = temp[0].find_all('div',"item text-black")
+            job_info["loại công việc"]= BeautifulSoup(str(temp_1[1]), "html.parser").get_text(strip=True).replace("Hình thức:","")  
+            print(job_info["loại công việc"])  
+            
+            temp_2 = temp[0].find_all('div',"item time-expiry-date")
+            job_info["cấp bậc"]= BeautifulSoup(str(temp_2[1]), "html.parser").get_text(strip=True).replace("Chức vụ:","")  
+            print(job_info["cấp bậc"])  
+            
+            job_info["học vấn"]= BeautifulSoup(str(temp_1[-1]), "html.parser").get_text(strip=True).replace("Trình độ:","")  
+            print(job_info["học vấn"])  
+
+            #Giới tính
+            job_info["giới tính"] = "Nam / Nữ"
+            job_info["ngành nghề"] ="Ngành IT phần mềm"
+            
+            job_data.append(job_info)
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error during request: {e}")
+
+    return job_data
+
+        
+def jobInfo(job_url: str, tag: str, class_name: str):
+    try:
+        response = requests.get(f"{job_url}")
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, "html.parser")
+        info_span = soup.find_all(tag, class_= class_name)
+        return info_span
+    except requests.exceptions.RequestException as e:
+        print(f"Error during request: {e}")
+        
+
+# Lấy dữ liệu từ 3 trang đầu tiên và lưu vào file JSON
+all_job_data = []
+for i in range(1, 4):
+    page_job_data = scrape_careerlink_vn(i)
+    all_job_data.extend(page_job_data)
+
+# Lưu vào file JSON
+with open('job_data.json', 'w', encoding='utf-8') as json_file:
+    json.dump(all_job_data, json_file, ensure_ascii=False, indent=2)

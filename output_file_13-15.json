@@ -1,0 +1,901 @@
+[{
+        "Tiêu đề công việc": "Kỹ Sư Cầu Nối BrSE - Tiếng Nhật N2",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "18 triệu - 40 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "DevOps Engineer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "20 triệu - 40 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "DevOps Engineering",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "15 triệu - 30 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IT Business Analyst / Product Analyst",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "NodeJS Developer",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "System Engineer Leader",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "25 triệu - 40 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Thiết Kế Đồ Họa",
+        "Địa điểm công việc": "Quận Cái Răng, Cần Thơ",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Oracle Developer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "25 triệu - 45 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Phân Tích Dữ Liệu DA - Dương Nội, Hà Đông",
+        "Địa điểm công việc": "Quận Hà Đông, Hà Nội",
+        "Mức lương": "12 triệu - 18 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "[Hà Nội] Angular Developer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "20 triệu - 30 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "SALES IOT / NHÂN VIÊN KINH DOANH GIẢI PHÁP IOT (BÌNH DƯƠNG)",
+        "Địa điểm công việc": "Thành Phố Thuận An, Bình Dương",
+        "Mức lương": "9 triệu - 13 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "SEO SPECIALIST",
+        "Địa điểm công việc": "Quận 1, Quận 3, Hồ Chí Minh",
+        "Mức lương": "10 triệu - 25 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Marketing Lead (China Market)",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "LẬP TRÌNH VIÊN",
+        "Địa điểm công việc": "Quận 3, Hồ Chí Minh",
+        "Mức lương": "10 triệu - 20 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Product Planning & Marketing",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Seo Marketing Thu Nhập Từ 12M Đến 25M - Phỏng Vấn Nhận Việc Ngay",
+        "Địa điểm công việc": "Quận 1, Quận 3, Hồ Chí Minh",
+        "Mức lương": "12 triệu - 25 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Quality Engineer Lead ( Tester )",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Ruby On Rails Team Leader",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Lập Trình Viên Java",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân viên kiểm thử",
+        "Địa điểm công việc": "Hồ chí Minh",
+        "Mức lương": "3 triệu - 5 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Senior Backend Developer (NodeJs)",
+        "Địa điểm công việc": "Quận 7, Hồ Chí Minh",
+        "Mức lương": "1,000 USD - 1,800 USD",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "BUSINESS ANALYST",
+        "Địa điểm công việc": "Quận Tân Bình, Hồ Chí Minh",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Hỗ Trợ Người Dùng Kiêm Phân Tích Nghiệp Vụ",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "9 triệu - 18 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IT Manager - Quản Lý Công Nghệ Thông Tin",
+        "Địa điểm công việc": "Thành phố Hội An, Quảng Nam",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Thiết Kế UI/UX (Junior UI/UX Design)",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "8 triệu - 16 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Cao Cấp Quản Lý An Toàn Thông Tin",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Thực Tập Sinh Tester (Tiếng Nhật N2)",
+        "Địa điểm công việc": "Quận Thanh Xuân, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Kiểm Toán Công Nghệ Thông Tin",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Frontend Developer",
+        "Địa điểm công việc": "Quận Thanh Xuân, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Cao Cấp Quản Lý An Toàn Thông Tin",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Thực Tập Sinh Backend",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Phát Triển Ứng Dụng (.NET)",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "[HCM] Lập Trình Viên PHP - Lương Từ 10 - 20 Triệu",
+        "Địa điểm công việc": "Quận Bình Thạnh, Hồ Chí Minh",
+        "Mức lương": "10 triệu - 20 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Kinh Doanh B2B (Hỗ Trợ Data Khách Hàng)",
+        "Địa điểm công việc": "Thành Phố Thủ Đức, Hồ Chí Minh",
+        "Mức lương": "6 triệu - 10 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên IT - Bán Thời Gian",
+        "Địa điểm công việc": "Quận 2, Hồ Chí Minh",
+        "Mức lương": "1 triệu - 3 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Trưởng Nhóm Chăm Sóc Khách Hàng (Lĩnh Vực Công Nghệ)",
+        "Địa điểm công việc": "Thành Phố Thủ Đức, Hồ Chí Minh",
+        "Mức lương": "Trên 11 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Kỹ Sư Lập Trình Nhúng",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Account Manager",
+        "Địa điểm công việc": "Thành Phố Thủ Đức, Hồ Chí Minh",
+        "Mức lương": "Trên 18 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Embedded Software Tester",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Lập Trình Viên Flutter",
+        "Địa điểm công việc": "Thành Phố Thủ Đức, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Business Analyst (Software Detail Design Engineer) - Nhận việc 03.2024",
+        "Địa điểm công việc": "Quận 3, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Java Developer",
+        "Địa điểm công việc": "Thành Phố Thủ Đức, Hồ Chí Minh",
+        "Mức lương": "10 triệu - 40 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Kinh Doanh - Thủ Đức",
+        "Địa điểm công việc": "Thành Phố Thủ Đức, Hồ Chí Minh",
+        "Mức lương": "6 triệu - 10 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Customer Success Specialist",
+        "Địa điểm công việc": "Thành Phố Thủ Đức, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Kinh Doanh - Cầu Giấy",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "6 triệu - 10 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Partnership (Lĩnh Vực Công Nghệ - Phần Mềm)",
+        "Địa điểm công việc": "Thành Phố Thủ Đức, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Firmware Tester Engineer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IoT Engineer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Kỹ Sư Kiểm Thử Phần Mềm/ Tester",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "600 USD - 1,000 USD",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Kỹ Sư Hạ Tầng Cloud",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "[Hồ Chí Minh] Trưởng Phòng Kinh Doanh Công Nghệ Thông Tin",
+        "Địa điểm công việc": "Thành Phố Thủ Đức, Hồ Chí Minh",
+        "Mức lương": "Trên 25 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Kinh Doanh (CNTT)",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "2 Nhân Viên IT",
+        "Địa điểm công việc": "Thành phố Buôn Ma Thuột, Đắk Lắk",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Senior PHP Developer",
+        "Địa điểm công việc": "Quận Bình Thạnh, Hồ Chí Minh",
+        "Mức lương": "12 triệu - 36 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Senior Tester",
+        "Địa điểm công việc": "Quận Bình Thạnh, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Senior C++ Developer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "25 triệu - 40 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Game Tester (Tiếng Nhật N2 Trở Lên, Không Yêu Cầu Kinh Nghiệm)",
+        "Địa điểm công việc": "Quận Bình Thạnh, Hồ Chí Minh",
+        "Mức lương": "9 triệu - 12 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên IT",
+        "Địa điểm công việc": "Huyện Quốc Oai, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Tester",
+        "Địa điểm công việc": "Quận Hoàng Mai, Hà Nội",
+        "Mức lương": "12 triệu - 15 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "ReactJS Developer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Phân Tích Nghiệp Vụ",
+        "Địa điểm công việc": "Quận Hoàng Mai, Hà Nội",
+        "Mức lương": "20 triệu - 30 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Lập Trình .Net",
+        "Địa điểm công việc": "Quận 1, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "AI DEVELOPER",
+        "Địa điểm công việc": "Quận Bình Thạnh, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Kinh Doanh - Sale IT (Không Yêu Cầu Kinh Nghiệm)",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Trợ Giảng Vật Lý, Công Nghệ Thông Tin, Lập Trình, Điện Tử, Robot, Thiết Kế Đồ Họa",
+        "Địa điểm công việc": "Quận 2, Quận 3, Quận 7, Quận 11, Quận Gò Vấp, Quận Tân Bình, Quận Bình Thạnh, Quận Phú Nhuận, Thành Phố Thủ Đức, Quận Bình Tân, Quận Tân Phú, Hồ Chí Minh",
+        "Mức lương": "2 triệu - 4 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "CHUYÊN VIÊN TRIỂN KHAI PHẦN MỀM",
+        "Địa điểm công việc": "Quận Bắc Từ Liêm, Hà Nội",
+        "Mức lương": "15 triệu - 20 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Hỗ Trợ & Triển Khai Phần Mềm DMS",
+        "Địa điểm công việc": "Quận Bắc Từ Liêm, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IT Officer",
+        "Địa điểm công việc": "Quận Hoàn Kiếm, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Quản Trị Hệ Thống",
+        "Địa điểm công việc": "Quận Bắc Từ Liêm, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Kỹ Sư IT (Tiếng Anh/Tiếng Trung)",
+        "Địa điểm công việc": "Huyện Kim Bảng, Hà Nam",
+        "Mức lương": "10 triệu - 20 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "[Junior - Senior] Search Engine Optimization Specialist",
+        "Địa điểm công việc": "Quận 1, Quận 3, Hồ Chí Minh",
+        "Mức lương": "10 triệu - 25 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Senior Mobile App Developer",
+        "Địa điểm công việc": "Quận Hà Đông, Hà Nội",
+        "Mức lương": "20 triệu - 25 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Giảng Viên Công Nghệ Thông Tin",
+        "Địa điểm công việc": "Quận Ninh Kiều, Cần Thơ",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên IT",
+        "Địa điểm công việc": "Huyện Kim Bảng, Hà Nam",
+        "Mức lương": "7 triệu - 10 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Phó Phòng IT",
+        "Địa điểm công việc": "Huyện Kim Bảng, Hà Nam",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "[QUẬN NGŨ HÀNH SƠN] Giảng Viên Thiết Kế Đồ Họa",
+        "Địa điểm công việc": "Quận Ngũ Hành Sơn, Đà Nẵng",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên IT - Hệ Thống Erp",
+        "Địa điểm công việc": "Quận Bình Thạnh, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Hỗ Trợ Triển Khai Phần Mềm",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "SEO Manager",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "20 triệu - 30 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên IT",
+        "Địa điểm công việc": "Quận 11, Hồ Chí Minh",
+        "Mức lương": "8 triệu - 10 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Seo Thu Nhập 15-20 Triệu",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "15 triệu - 20 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Lập Trình Viên Asp.Net",
+        "Địa điểm công việc": "Quận 11, Hồ Chí Minh",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "CHUYÊN VIÊN IT PHẦN MỀM",
+        "Địa điểm công việc": "Huyện Tân Phước, Tiền Giang",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IT PMO DIRECTOR",
+        "Địa điểm công việc": "Quận Hà Đông, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "CHUYÊN VIÊN LẬP TRÌNH NHÚNG",
+        "Địa điểm công việc": "Quận Hà Đông, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Giảng Viên Công Nghệ Thông Tin - Information Technology Specialization",
+        "Địa điểm công việc": "Quận Ngũ Hành Sơn, Đà Nẵng",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "NHÂN VIÊN IT",
+        "Địa điểm công việc": "Huyện Quế Sơn, Huyện Phú Ninh, Quảng Nam",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Middle React Native (Up To 1000$)",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "7 triệu - 22 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Full-stack PHP Developer",
+        "Địa điểm công việc": "Thành phố Quảng Ngãi, Quảng Ngãi",
+        "Mức lương": "9 triệu - 15 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Junior Tester (Up To 14M NET)",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "300 USD - 600 USD",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Trợ lý Hạng Mục- tiếng Trung (Nhà máy B)",
+        "Địa điểm công việc": "Huyện Thủy Nguyên, Hải Phòng",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IT Project Management Fresher",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "300 USD - 700 USD",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Phân tích Nghiệp Vụ BA",
+        "Địa điểm công việc": "Quận Hà Đông, Hà Nội",
+        "Mức lương": "15 triệu - 22 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Experienced Tester",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "Trên 30 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Kỹ Sư Triển Khai Mạng (Post Network Engineer)",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Senior Javascript Developer (NodeJs/React) - Up To 2000$",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Business Analyst (Phần Mềm)",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Test Leader",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "LẬP TRÌNH VIÊN PYTHON (SENIOR BACKEND DEVELOPER)",
+        "Địa điểm công việc": "Quận Hà Đông, Hà Nội",
+        "Mức lương": "20 triệu - 25 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IT Manager",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Java Intern",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên IT Helpdesk - Quận 12",
+        "Địa điểm công việc": "Quận 12, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "[HN]  Lập Trình Viên PHP ( PHP Back-End Developer )",
+        "Địa điểm công việc": "Quận Hà Đông, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên IT",
+        "Địa điểm công việc": "Quận Hai Bà Trưng, Hà Nội",
+        "Mức lương": "10 triệu - 15 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "LẬP TRÌNH VIÊN WEB (HTML5+CSS3, JQUERY)",
+        "Địa điểm công việc": "Quận Hai Bà Trưng, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Quản Lý Triển Khai Dự Án CNTT - Điện Nhẹ",
+        "Địa điểm công việc": "Quận Hà Đông, Hà Nội",
+        "Mức lương": "14 triệu - 20 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Senior Designer",
+        "Địa điểm công việc": "Quận 2, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Lập Trình Máy CNC",
+        "Địa điểm công việc": "Huyện Quế Võ, Bắc Ninh",
+        "Mức lương": "10 triệu - 18 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "[HCM] Nhân Viên Telesales Sản Phẩm Thương Mại Điện Tử",
+        "Địa điểm công việc": "Quận 11, Hồ Chí Minh",
+        "Mức lương": "10 triệu - 20 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên IT Helpdesk",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "10 triệu - 13 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Mobile Developer (React Native, iOS, Android)",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "20 triệu - 35 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Kỹ Sư Điện Nhẹ",
+        "Địa điểm công việc": "Quận Hai Bà Trưng, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Business Analyst /Product Owner Ngành IT",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "15 triệu - 30 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "NHÂN VIÊN THIẾT KẾ WEBSITE",
+        "Địa điểm công việc": "Quận Hai Bà Trưng, Hà Nội",
+        "Mức lương": "9 triệu - 15 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "PHP Junior / Senior Fullstack",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "15 triệu - 30 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IT Lecturer (Vietnamese & Forgeiner)",
+        "Địa điểm công việc": "Quận Sơn Trà, Đà Nẵng",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Giảng Viên IT",
+        "Địa điểm công việc": "Quận Ngũ Hành Sơn, Đà Nẵng",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Giáo Viên Tin Học",
+        "Địa điểm công việc": "Quận Ngũ Hành Sơn, Đà Nẵng",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "NHÂN VIÊN IT - KDL Sinh Thái Cổng Trời Đông Giang",
+        "Địa điểm công việc": "Huyện Đông Giang, Quảng Nam",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Java Devs (Spring Boot, Jquery, Thymeleaf)",
+        "Địa điểm công việc": "Quận Ba Đình, Hà Nội",
+        "Mức lương": "15 triệu - 25 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Kinh Doanh (IT Outsourcing) - Thị Trường Nhật",
+        "Địa điểm công việc": "Quận Ba Đình, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Máy Tính - Máy In",
+        "Địa điểm công việc": "Quận Lê Chân, Hải Phòng",
+        "Mức lương": "7 triệu - 10 triệu",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "C++/C# Developer Up To 25M",
+        "Địa điểm công việc": "Quận Ba Đình, Hà Nội",
+        "Mức lương": "12 triệu - 25 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Giảng Viên IT - Dạy Lập Trình Game",
+        "Địa điểm công việc": "Quận 3, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Kinh Doanh Bán Lẻ Máy Tính",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "11 triệu - 12 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Giảng Viên IT - Dạy Lập Trình Fullstack",
+        "Địa điểm công việc": "Quận 3, Hồ Chí Minh",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên IT - Bảo Hành (Phần Cứng)",
+        "Địa điểm công việc": "Quận Hai Bà Trưng, Quận Đống Đa, Hà Nội",
+        "Mức lương": "10 triệu - 11 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên Kinh Doanh Camera - Hà Nội",
+        "Địa điểm công việc": "Quận Đống Đa, Hà Nội",
+        "Mức lương": "12 triệu - 15 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Senior Python Developer",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên IT Phần Mềm [Tiếng Trung]",
+        "Địa điểm công việc": "Huyện Nhơn Trạch, Đồng Nai",
+        "Mức lương": "Trên 15 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên Tư Vấn Giải Pháp Chuyển Đổi Số Khối Chính Phủ (Pre -Sales)",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "12 triệu - 25 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Trưởng Nhóm IT",
+        "Địa điểm công việc": "Huyện Trảng Bom, Đồng Nai",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nhân Viên SEO Marketing",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "12 triệu - 15 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Product Development - Phát Triển Sản Phẩm (Công Nghệ Thông Tin, Viễn Thông)",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Cạnh tranh",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "[Network - Security] Cán Bộ Triển Khai Công Nghệ Mạng, Bảo Mật",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Solution Architect (Java)",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "5 - 10 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "SENIOR GOLANG DEVELOPER",
+        "Địa điểm công việc": "Quận Bình Thạnh, Hồ Chí Minh",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "PHP Developer (CMS Drupal)",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "17 triệu - 30 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Senior AI Engineer",
+        "Địa điểm công việc": "Quận Thanh Xuân, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Automation Tester",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Chuyên Viên IT (Phần Cứng)",
+        "Địa điểm công việc": "Quận Tân Bình, Hồ Chí Minh",
+        "Mức lương": "13 triệu - 16 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Vuejs Developer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IT Project Assistant (300$ - 600$)",
+        "Địa điểm công việc": "Quận Nam Từ Liêm, Hà Nội",
+        "Mức lương": "300 USD - 600 USD",
+        "Kinh nghiệm": "0 - 1 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Cloud Engineer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "20 triệu - 40 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Nodejs Developer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Python Developer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "20 triệu - 35 triệu",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Golang Engineer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "IT Project Manager",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "25 triệu - 42 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "iOS Developer",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "20 triệu - 35 triệu",
+        "Kinh nghiệm": "2 - 5 năm kinh nghiệm"
+    },
+    {
+        "Tiêu đề công việc": "Java Developer (Spring Framework, Nosql)",
+        "Địa điểm công việc": "Quận Cầu Giấy, Hà Nội",
+        "Mức lương": "Thương lượng",
+        "Kinh nghiệm": "1 - 2 năm kinh nghiệm"
+    },
+]
